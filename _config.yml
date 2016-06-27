@@ -1,0 +1,14 @@
+layout_spectrum: 0.43953439220786095
+typography_spectrum: 0.9554245928302407
+color:
+  brandStrength: 0.2320644531864673
+  lightness: 0.22648149472661316
+  saturation: 0.33503292012028396
+  rhythmicContrast: 0.5084825132507831
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Testpll
